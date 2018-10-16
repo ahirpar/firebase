@@ -1,0 +1,3 @@
+$("#loginporgress").hide();
+$("#Forgotsuccess").hide();
+
